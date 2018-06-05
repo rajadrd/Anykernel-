@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=The BFR™ by amog787
+kernel.string=
 do.devicecheck=0
 do.initd=1
 do.cleanup=1

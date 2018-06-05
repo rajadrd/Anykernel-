@@ -7,7 +7,7 @@ AnyKernel2 - Flashable Zip Template for Kernel Releases with Ramdisk Modificatio
 
 AnyKernel2 pushes the format even further by allowing kernel developers to modify the underlying ramdisk for kernel feature support easily using a number of included command methods along with properties and variables.
 
-A working script based on DirtyV Kernel for Galaxy Nexus (tuna) is included for reference.
+A working script based on Firnagi Kernel for Lenovo Zuk Z2 Plus (z2_plus) is included for reference.
 
 ## // Properties / Variables ##
 ```
