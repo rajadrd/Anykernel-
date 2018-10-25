@@ -4,16 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=
+kernel.string=OmnitriX_V3««Waybig»»
 do.devicecheck=0
 do.initd=1
 do.cleanup=1
 do.stuff=0
 do.blobs=0
-device.name1=z2_plus
-device.name2=Z2131
-device.name3=Z2
-device.name4=z2
+device.name1=X00TD
+device.name2=ASUS_X00TD
+device.name3=X00T
+device.name4=XOOTD
 device.name5=Z2132
 } # end properties
 
