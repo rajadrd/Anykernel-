@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() {
-kernel.string=OmnitriX_V3««Waybig»»
+kernel.string=OmnitriX_V4««GreyMatter»»
 do.devicecheck=0
 do.initd=1
 do.cleanup=1
